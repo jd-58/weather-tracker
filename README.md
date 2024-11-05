@@ -3,6 +3,8 @@
 Welcome to my Weather Analyzer project! Built in x86 Assembly, this tool will track user-entered daily temperature readings, and output helpful statistics such as the minimum, maximum, and average temperature. It will also tell the user how
 many cold, cool, warm, and hot days there were!
 
+![A Screenshot of the program after taking user temperature readings and running the calculations.](/weather_analyzer_screenshot.jpg)
+
 ## Demonstration
 ![A gif showing the program in action.](/weather_analyzer_example.gif)
 
