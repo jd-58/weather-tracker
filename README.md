@@ -25,7 +25,7 @@ For instructions on cloning a repository, [click here.](https://docs.github.com/
 -	Launch Visual Studio.
 - Open the weather-tracker folder as a project.
 
-  #### Build the project
+#### Build the project
 In Visual Studio, go to Build > Build Solution or press Ctrl+Shift+B.
 
 #### Running the Program
