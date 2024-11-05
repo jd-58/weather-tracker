@@ -6,7 +6,7 @@ many cold, cool, warm, and hot days there were!
 ![A Screenshot of the program after taking user temperature readings and running the calculations.](/weather_analyzer_screenshot.jpg)
 
 ## Demonstration
-![A gif showing the program in action.](/weather_analyzer_example.gif)
+![A gif showing the program in action.](/weather_analyzer_demo.gif)
 
 ## Getting Started
 
