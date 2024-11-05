@@ -3,10 +3,8 @@
 Welcome to my Weather Analyzer project! Built in x86 Assembly, this tool will track user-entered daily temperature readings, and output helpful statistics such as the minimum, maximum, and average temperature. It will also tell the user how
 many cold, cool, warm, and hot days there were!
 
-![Screenshot of stock analyzer program. There is a graph of NVDA's price in the last 6 months.](/screenshots/stock-analyzer-aapl-6mo.png)
-
 ## Demonstration
-![A gif showing the program in action.](/screenshots/stock-analyzer-demo-gif.gif)
+![A gif showing the program in action.](/weather_analyzer_example.gif)
 
 ## Getting Started
 
